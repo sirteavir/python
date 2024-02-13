@@ -1,0 +1,6 @@
+print("Welcome to Programming")
+print("Sean is Awesome")
+print("what is programming language")
+print(5+12)
+print("5+12")
+print("python is kinda boring")
